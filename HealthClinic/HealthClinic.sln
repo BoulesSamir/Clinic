@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLinicDataAccess", "CLinicDataAccess\CLinicDataAccess.csproj", "{61ECBF2E-A4AF-4A74-BC3F-73105473A92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61ECBF2E-A4AF-4A74-BC3F-73105473A92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ECBF2E-A4AF-4A74-BC3F-73105473A92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ECBF2E-A4AF-4A74-BC3F-73105473A92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ECBF2E-A4AF-4A74-BC3F-73105473A92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776E0B8C-C95D-4E74-BB9C-5F36523FFBEE}
+	EndGlobalSection
+EndGlobal
